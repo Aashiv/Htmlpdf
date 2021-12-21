@@ -1,0 +1,15 @@
+{
+    "name": "aashiv/htmlpdf",
+	"description": "Generate Pdf Design with Laravel Dompdf Package"
+    "autoload": {
+        "psr-4": {
+            "Aashiv\\Htmlpdf\\": "src/"
+        }
+    },
+	"minimum-stability": "dev",
+    "require": {
+        "php": "^7.2.5|^8.0",
+        "barryvdh/laravel-dompdf": "^0.9.0",
+		"laravel/framework": "^6.20.26"
+	}
+}
