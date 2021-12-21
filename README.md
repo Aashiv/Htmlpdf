@@ -1,1 +1,20 @@
-<p><br></p><table class="table table-bordered"><tbody><tr><td><br>Hello guys, <br>here i am going to share with you information about pdf development with MPdf (Url:https://mpdf.github.io/). You all know well about this pdf development library. Here I am sharing with you a small chunk of that in video fomat that can you get some idea about it. Php Pdf with Mpdf Having Summernote Editor. HTML With Pdf Preview Url:</td></tr><tr><td><p><br>https://www.linkedin.com/in/aashiv-nirmal-66a78b121?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAB4xefIBEQVegEESY0zVrdMkSVmQBI4Kvy4&amp;lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_details_all%3BLnF44Ed8QCyqH%2BdliLQOzQ%3D%3D&amp;licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base_recent_activity_details_all-actor_container&amp;lici=2MlUVkiONXJG2F5kIkAomw%3D%3D</p></td></tr><tr><td><br></td></tr><tr><td>Courtesy:<br>- Php (Url: https://www.php.net/)<br>- Mpdf Library (Url: https://mpdf.github.io/)<br>- Summernote Editor (Url: https://summernote.org/)</td></tr><tr><td><br></td></tr></tbody></table><p><br></p>
+Hello devops,
+As we know PDF document is basic necessity in PHP laravel development for invoice and other document generation. There would be need 2 things basically: dynamic data + html structure as expectation. So here one concept i want to introduce to you is html management. If our backbone is ready, it would be easy to put our dynamic stuff in that. 
+
+System requirements:
+
+Php : v7.2.5
+
+Laravel : v6.20.26 
+
+Dompdf Package : v0.9.0
+
+Steps:
+1. Create Packages directory in your laravel project.
+2. Add Htmlpdf package in packages directory.
+3. Make autoload package related changes in composer.json file.
+4. Add service provider class in config/app.php file.
+5. composer dump-autoload.
+6. publish package.
+7. migrate database.
+8. seed database.
