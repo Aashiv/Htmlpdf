@@ -9,6 +9,8 @@ Laravel : v6.20.26
 
 Dompdf Package : v0.9.0
 
+Summernote Editor : v0.8.18
+
 Steps:
 1. Create Packages directory in your laravel project.
 2. Add Htmlpdf package in packages directory.
