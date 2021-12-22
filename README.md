@@ -20,7 +20,3 @@ Steps:
 6. publish package.
 7. migrate database.
 8. seed database.
-
-Generate Pdf Design with Laravel Dompdf Package
-
-https://youtu.be/duTP6DJ7dWQ
