@@ -1,6 +1,6 @@
 {
     "name": "aashiv/htmlpdf",
-	"description": "Generate Pdf Design with Laravel Dompdf Package"
+	"description": "Generate Pdf Design with Laravel Dompdf Package",
     "autoload": {
         "psr-4": {
             "Aashiv\\Htmlpdf\\": "src/"
