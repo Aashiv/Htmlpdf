@@ -21,8 +21,6 @@ Steps:
 7. migrate database.
 8. seed database.
 
-Packagist: composer require aashiv/htmlpdf
-
 Generate Pdf Design with Laravel Dompdf Package
 
 Youtube: https://youtu.be/duTP6DJ7dWQ
