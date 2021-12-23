@@ -23,4 +23,6 @@ Steps:
 
 Generate Pdf Design with Laravel Dompdf Package
 
-https://youtu.be/duTP6DJ7dWQ
+Youtube: https://youtu.be/duTP6DJ7dWQ
+
+Packagist: composer require aashiv/htmlpdf
